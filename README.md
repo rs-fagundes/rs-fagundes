@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Experienced computer engineer with a decade-long career in multinational IT companies, skilled in digital marketing strategy, business planning, data analysis, and customer relationship management. Proficient in English, Spanish, and Portuguese with a passion for digital marketing strategy, AdTech, and Web3. Proficient in various marketing and programming tools, including Google Marketing Platform, Google Display & Video 360, PowerBI, Visual Studio Code, Python (Pandas, NumPy, Matplotlib, scikit-learn), and SQL.
+
+
 <!--
 **0xrsfagundes/0xrsfagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
