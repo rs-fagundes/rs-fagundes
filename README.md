@@ -1,8 +1,8 @@
 ### Hi there <img width=20 src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif'>
 
-I'm an experienced computer engineer with a decade-long career in multinational IT companies, skilled in digital marketing strategy, business planning, data analysis, and customer relationship management. Proficient in English, Spanish, and Portuguese with a passion for digital marketing strategy, AdTech, and Web3. Proficient in various marketing and programming tools, including Google Marketing Platform, Google Display & Video 360, PowerBI, Visual Studio Code, Python (Pandas, NumPy, Matplotlib, scikit-learn), and SQL.
+Digital marketer with a passion for data science. Turning data into insights is my passion. 🔍📈 #DataScience #DigitalMarketing
 
-https://rsfagundes.com/
+Check it out my website: https://rsfagundes.com/
 
 
 <!--
