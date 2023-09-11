@@ -1,6 +1,6 @@
 ### Hi there <img width=20 src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif'>
 
-Digital marketer with a passion for data science. Turning data into insights is my passion. 🔍📈 #DataScience #DigitalMarketing
+Digital marketer and data science enthusiast. Turning data into insights is my passion. 🔍📈 #DataScience #DigitalMarketing
 
 Check it out my website: https://rsfagundes.com/
 
