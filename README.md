@@ -1,4 +1,4 @@
-# Rafael Sanches Fagundes  
+# Rafael Fagundes  
 💡 **Senior Data Analyst | CRM & Growth | AdTech & Personalization**  
 📍 Lisbon, Portugal | Open to global opportunities  
 
