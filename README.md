@@ -1,11 +1,11 @@
 # Rafael Fagundes  
-💡 **Senior Data Analyst | CRM & Growth | AdTech & Personalization**  
+💡 **Data Analyst | CRM & Growth | AdTech & Personalization**  
 📍 Lisbon, Portugal | Open to global opportunities  
 
 ---
 
 ## 👋 About Me  
-I am a **Senior Digital Analyst** with over **10 years of experience** transforming data into actionable insights to drive business growth.  
+I am a **Data Analyst** with over **10 years of experience** transforming data into actionable insights to drive business growth.  
 My expertise spans **CRM, AdTech, Customer Personalization, and Analytics**, with a strong focus on **A/B testing, conversion rate optimization, and cookieless strategies**.  
 
 I have worked with global brands like **Nestlé and Dell Technologies**, leading data-driven initiatives and optimizing marketing & personalization strategies.
