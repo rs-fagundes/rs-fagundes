@@ -34,6 +34,3 @@ I’ve worked globally with brands like Nestlé and Dell Technologies, leading d
 ## Connect  
 [LinkedIn](https://www.linkedin.com/in/rsfagundes) | [Website](https://rsfagundes.com) | [GitHub](https://github.com/rs-fagundes)  
 
----
-
-Passionate about data, analytics, and building strategies that make a real impact.
