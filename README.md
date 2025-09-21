@@ -22,10 +22,12 @@ I’ve worked globally with brands like Nestlé and Dell Technologies, leading d
 ---
 
 ## Achievements  
-- Reduced third-party cookie dependency by 70% at Dell Technologies through ActionIQ CDP and cookieless measurement standards.  
-- Accelerated first-party data acquisition by 30% and reduced reporting time by 40% at Nestlé with global dashboards and CRM initiatives.  
-- Increased Sales Ready Leads by 25% and pipeline by 30% in LATAM through advanced segmentation and 6sense adoption at Dell.  
-- Multiple innovation awards in AdTech, analytics, and data strategy.  
+
+- **Nestlé (Mar 2024 – Present):** Rolled out global dashboards within **6 months**, reducing reporting time by 40% and giving 20+ Digital Managers faster access to insights.  
+- **Nestlé (Mar 2024 – Present):** Developed and launched data use cases in under **4 months**, including a loyalty program that boosted engagement by 25% and improved conversion by 12%.  
+- **Dell (Mar 2023 – Feb 2024):** Reduced third-party cookie dependency by **70% within three quarters** through the adoption of ActionIQ CDP, while establishing new measurement standards for a cookieless future.  
+- **Dell LATAM (Sep 2018 – Feb 2022):** Implemented 6sense in two quarters, increasing targeting accuracy in LinkedIn from ~40% to 99%, which drove a **25% growth in Sales Ready Leads** and a **30% increase in pipeline**.  
+- Recognized with multiple **awards for innovation and excellence** in AdTech, analytics, and data strategy (Dell Technologies, 2021–2023).   
 
 ---
 
