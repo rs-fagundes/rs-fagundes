@@ -22,10 +22,10 @@ I’ve worked globally with brands like Nestlé and Dell Technologies, leading d
 ---
 
 ## Achievements  
-- Implemented CRM and personalization strategies for Nestlé, driving omnichannel engagement and accelerating first-party data acquisition by 30%.  
-- Reduced third-party cookie dependency by 70% at Dell Technologies through the adoption of ActionIQ CDP and cookieless measurement standards.  
-- Optimized lead generation and segmentation in LATAM, increasing Sales Ready Leads by 25% and pipeline by 30%.  
-- Multiple awards for innovation in AdTech, analytics, and data strategy.  
+- Reduced third-party cookie dependency by 70% at Dell Technologies through ActionIQ CDP and cookieless measurement standards.  
+- Accelerated first-party data acquisition by 30% and reduced reporting time by 40% at Nestlé with global dashboards and CRM initiatives.  
+- Increased Sales Ready Leads by 25% and pipeline by 30% in LATAM through advanced segmentation and 6sense adoption at Dell.  
+- Multiple innovation awards in AdTech, analytics, and data strategy.  
 
 ---
 
