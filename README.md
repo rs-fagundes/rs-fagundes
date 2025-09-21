@@ -13,11 +13,11 @@ I’ve worked globally with brands like Nestlé and Dell Technologies, leading d
 ---
 
 ## Skills  
-- **Data Analytics & Visualization:** Power BI, Tableau, Looker, Databricks  
-- **Programming & Data Processing:** Python, SQL, PySpark  
-- **CRM & Marketing Platforms:** Salesforce, HubSpot, ActionIQ, Segment  
-- **AdTech & MarTech:** Google Analytics 4, MMM, Clean Rooms, Paid Media  
-- **Core Expertise:** Data Strategy, Customer Segmentation, A/B Testing  
+- **Data Analytics & Visualization:** Power BI, Tableau, Looker, Databricks, BigQuery  
+- **Programming & Data Processing:** Python, SQL, PySpark, ETL & Data Pipelines  
+- **CRM & Marketing Platforms:** Salesforce, HubSpot, ActionIQ, Segment, Ometria, Salesforce Marketing Cloud  
+- **AdTech & MarTech:** Google Analytics 4, MMM, Clean Rooms, Paid Media, 6sense  
+- **Core Expertise:** Data Strategy, Customer Segmentation, A/B Testing, Conversion Rate Optimization, Cookieless Measurement  
 
 ---
 
