@@ -1,6 +1,6 @@
 # Rafael Fagundes  
 **Data Analyst | CRM & Growth | AdTech & Personalization**  
-Lisbon, Portugal | Open to global opportunities  
+Madrid, Spain
 
 ---
 
